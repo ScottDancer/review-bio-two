@@ -25,13 +25,13 @@ h1 {
   color: #ff6e42;
   font-size: 48px;
 
-  text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
+  text-shadow: 0px 0px 6px rgba(3,251,255,0.6);
 }
 
 h2{
   font-size: 30px;
   color: #1669cc;
-  text-shadow: 4px 3px 0px #03fbff, 9px 8px 0px rgba(0,0,0,0.15);
+  text-shadow: 4px 3px 0px #03fbff, 9px 8px 0px rgba(63,104,153,0.3);
 }
 
 a {
